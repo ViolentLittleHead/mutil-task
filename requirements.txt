@@ -1,0 +1,16 @@
+albumentations==1.4.0
+mamba_ssm==1.2.0
+matplotlib==3.9.2
+numpy==1.26.3
+opencv_python_headless==4.10.0.84
+pandas==2.2.3
+Pillow==10.2.0
+ptflops==0.7.4
+scikit_learn==1.5.2
+scipy==1.14.1
+SimpleITK==2.4.0
+torch==2.0.0+cu118
+torchprofile==0.0.4
+torchsummary==1.5.1
+torchvision==0.15.0+cu118
+torchaudio==2.0.0+cu118
